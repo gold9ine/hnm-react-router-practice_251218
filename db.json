@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 0,
-      "img": "/src/img/01.jpg",
+      "img": "../src/img/01.jpg",
       "title": "벨티드 트윌 코트",
       "price": 99900,
       "choice": true,
