@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "img": "../src/img/01.jpg",
+      "title": "벨티드 트윌 코트",
+      "price": 99900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 1,
+      "img": "../src/img/02.jpg",
+      "title": "슬림핏 맘 하이웨이스트 앵클 진",
+      "price": 29900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 2,
+      "img": "../src/img/03.jpg",
+      "title": "와이드 하이웨이스트 진",
+      "price": 39900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 3,
+      "img": "../src/img/04.jpg",
+      "title": "퍼프 슬리브 드레스",
+      "price": 39900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 4,
+      "img": "../src/img/05.jpg",
+      "title": "프릴 디테일 드레스",
+      "price": 29900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 5,
+      "img": "../src/img/06.jpg",
+      "title": "시퀸 플레어 드레스",
+      "price": 39900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 6,
+      "img": "../src/img/07.jpg",
+      "title": "더블 브레스티드 재킷",
+      "price": 39900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 7,
+      "img": "../src/img/08.jpg",
+      "title": "오버사이즈 집업 후디",
+      "price": 99900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 8,
+      "img": "../src/img/09.jpg",
+      "title": "아플리케 트랙 재킷",
+      "price": 14900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 9,
+      "img": "../src/img/10.jpg",
+      "title": "프린트 후디",
+      "price": 19900,
+      "choice": false,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 10,
+      "img": "../src/img/11.jpg",
+      "title": "와이드 트윌 팬츠",
+      "price": 19900,
+      "choice": true,
+      "new": false,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 11,
+      "img": "../src/img/12.jpg",
+      "title": "플레어 로라이즈 진",
+      "price": 29900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 12,
+      "img": "../src/img/13.jpg",
+      "title": "셔링 메쉬 드레스",
+      "price": 14900,
+      "choice": true,
+      "new": true,
+      "size": ["S", "M", "L"]
+    },
+    {
+      "id": 13,
+      "img": "../src/img/14.jpg",
+      "title": "스웨트셔츠",
+      "price": 29900,
+      "choice": false,
+      "new": false,
+      "size": ["S", "M", "L"]
+    }
+  ]
+}
